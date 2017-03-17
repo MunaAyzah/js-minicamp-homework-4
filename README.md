@@ -7,30 +7,24 @@
 	* Callback Functions
 	* Closure
 	* arguments array
-	* recursion
-	* prototype
+	* Recursion
+	* Prototype
 	* constructors
 
+Callback Functions:
+         Function which is called in another is called as call back function. Lets take an example of a worker and his Boss,The worker finishes his task and calls back on his Boss.
 
-2. Fork and clone this repo.  When you need to commit use the following commands.
-		
-	* git status
-	* git add --all
-	* git status
-	* git commit -m "your commit message"
-	* git push origin master
+Closure:
+        A closure is a function having access to the parent scope,even after the parent function has closed.
+                   
+Argument array:
+        The argument object is a local variable available within all functions.You can refer to a function’s argument within the function by using the arguments Object.This object contains an entry for each argument passed to the function.
 
-3. Install dependencies using `npm install`.  Run tests using `npm test`.
+Recursion : A function that calls itself.
 
-4. Make the tests pass!
+Prototype : All objects in JavaScript is an prototype.
+
+Constructors: creating an object is called as constructor.we use keyword ‘new’ for constructor.
 
 
 
-#### Congratulations on finishing Homework #4!
-Apply to our full-time or part-time immersive program to learn cutting edge technologies that are used by top technology companies around the world.
-
-Our part-time and full-time courses are 13 intense weeks of focused study on the most relevant technologies.  
-
-Class sizes are small to ensure that each student gets individual attention from our world class instructors to help them succeed.  We also provide career support both during and after the course to help you succeed.  We are committed to your success.
-
-For more information visit: https://www.lambdaschool.com
